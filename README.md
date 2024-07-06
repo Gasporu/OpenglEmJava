@@ -8,3 +8,7 @@ Para executar esse código sem problemas, primeiro deve ser baixar o lwjgl e col
 
 ![Config para colocar](imagens/modulosnointelij.jpeg)
 
+
+Nessas linhas colocar o caminho para a imagem que queira, cuidando o nome de cada uma
+no Sprite pode-se ajustar os paramtros para ficar maior, menor, mudar de posição, rotacionar etc, nos numeros após o caminho
+![Config para colocar](imagens/linhasCodigo.jpeg)
