@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-assimp" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-assimp" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-assimp" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-assimp" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-bgfx" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-bgfx" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-bgfx" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-bgfx" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-cuda" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-cuda" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-cuda" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-cuda" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-egl" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-egl" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-egl" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-egl" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-fmod" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-fmod" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-fmod" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-fmod" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-freetype" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-freetype" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-freetype" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-freetype" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-glfw" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-glfw" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-glfw" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-glfw" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-harfbuzz" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-harfbuzz" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-harfbuzz" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-harfbuzz" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-hwloc" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-hwloc" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-hwloc" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-hwloc" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-jawt" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-jawt" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-jawt" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-jawt" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-jemalloc" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-jemalloc" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-jemalloc" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-jemalloc" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-ktx" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-ktx" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-ktx" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-ktx" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-libdivide" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-libdivide" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-libdivide" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-libdivide" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-llvm" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-llvm" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-llvm" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-llvm" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-lmdb" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-lmdb" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-lmdb" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-lmdb" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-lz4" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-lz4" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-lz4" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-lz4" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-meow" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-meow" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-meow" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-meow" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-meshoptimizer" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-meshoptimizer" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-meshoptimizer" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-meshoptimizer" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nanovg" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nanovg" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nanovg" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nanovg" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nfd" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nfd" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nfd" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nfd" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nuklear" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nuklear" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nuklear" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-nuklear" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-odbc" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-odbc" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-odbc" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-odbc" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openal" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openal" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openal" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openal" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opencl" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opencl" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opencl" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opencl" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opengl" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opengl" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opengl" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opengl" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opengles" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opengles" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opengles" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opengles" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openvr" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openvr" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openvr" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openvr" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openxr" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openxr" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openxr" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-openxr" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opus" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opus" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opus" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-opus" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-ovr" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-ovr" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-ovr" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-ovr" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-par" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-par" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-par" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-par" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-remotery" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-remotery" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-remotery" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-remotery" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-rpmalloc" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-rpmalloc" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-rpmalloc" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-rpmalloc" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-shaderc" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-shaderc" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-shaderc" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-shaderc" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-spvc" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-spvc" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-spvc" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-spvc" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-sse" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-sse" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-sse" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-sse" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-stb" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-stb" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-stb" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-stb" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tinyexr" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tinyexr" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tinyexr" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tinyexr" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tinyfd" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tinyfd" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tinyfd" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tinyfd" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tootle" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tootle" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tootle" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-tootle" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-vma" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-vma" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-vma" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-vma" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-vulkan" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-vulkan" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-vulkan" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-vulkan" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-xxhash" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-xxhash" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-xxhash" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-xxhash" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-yoga" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-yoga" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-yoga" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-yoga" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-zstd" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-zstd" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-zstd" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/coisasIntelij/lwjgl extraidos/lwjgl-zstd" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
